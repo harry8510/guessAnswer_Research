@@ -1,0 +1,6 @@
+diffCnt[ 0 ] : 1 
+diffCnt[ 1 ] : 0 
+diffCnt[ 2 ] : 8 
+diffCnt[ 3 ] : 8 
+diffCnt[ 4 ] : 9 
+diffCnt[ 5 ] : 4 
